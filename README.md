@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Q376420
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Miklos
+- 👀 I’m interested in software engineering
 - 📫 miklos.gyoeri@extern.a1.at
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: If anything can go wrong, it will
